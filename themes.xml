@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MotionTrim" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mt_bg</item>
+        <item name="android:statusBarColor">@color/mt_bg</item>
+        <item name="android:navigationBarColor">@color/mt_bg</item>
+    </style>
+    <color name="mt_bg">#0E0F13</color>
+</resources>
